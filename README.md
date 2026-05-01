@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Lara from Brazil. 👋<br><br>- ★ I'm currently learning Cybersecurity / Software engineering.<br><br>- ★ I enjoy solving problems and building  projects while improving my skills.<br><br>- ★ I'm constantly learning and improving.<br>This profile is a reflection of my growth over time.</p>
+<p align="left"> Im Lara / 🇧🇷. <br><br>- ★ I'm a Cybersecurity / Software engineering enthusiast, looking forward to upload more projects. <br><br>- ★ I enjoy solving problems and coding while improving my skills. <br><br> <br></p>
 
 ###
 
@@ -45,9 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -57,7 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
 ###
