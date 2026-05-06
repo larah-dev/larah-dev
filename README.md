@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left"> Im Lara / 🇧🇷. <br><br>- ★ IT Manager focused on building reliable systems, leading strong teams, and delivering real business results. Experience with cloud, cybersecurity, and infrastructure, aiming to improve performance and reduce costs.
+<p align="left"> Im Lara. <br><br> IT Manager focused on building reliable systems, leading strong teams, and delivering real business results. Experience with cloud, cybersecurity, and infrastructure, aiming to improve performance and reduce costs.
 
 Technology rules the world.
  <br><br> <br></p>
