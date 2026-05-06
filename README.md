@@ -30,7 +30,10 @@
 
 ###
 
-<p align="left"> Im Lara / 🇧🇷. <br><br>- ★ I'm a Cybersecurity / Software engineering enthusiast, looking forward to upload more projects. <br><br>- ★ I enjoy solving problems and coding while improving my skills. <br><br> <br></p>
+<p align="left"> Im Lara / 🇧🇷. <br><br>- ★ IT Manager focused on building reliable systems, leading strong teams, and delivering real business results. Experience with cloud, cybersecurity, and infrastructure, aiming to improve performance and reduce costs.
+
+Technology rules the world.
+ <br><br> <br></p>
 
 ###
 
