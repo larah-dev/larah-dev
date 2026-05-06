@@ -59,26 +59,6 @@ Technology rules the world.
 
 ###
 
-<h2 align="left">•  My Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=larah-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=GGGG"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larah-dev/larah-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larah-dev/larah-dev/output/pacman-contribution-graph.svg">
-  
 
 
 ###
