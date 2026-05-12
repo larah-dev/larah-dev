@@ -30,7 +30,14 @@
 
 ###
 
-<p align="left"> Im Larah. <br><br> IT Manager focused on building reliable systems, leading strong teams, and delivering real business results. Experience with cloud, cybersecurity, and infrastructure, aiming to improve performance and reduce costs.
+<p align="left"> Im Larah. <br><br> Take a look at my top projects bellow.. <br>
+
+<p align="center">
+<a href="https://github.com/larah-dev/Modern-Quiz.git">
+  <img src="https://img.shields.io/badge/🐧%20MODERN%20QUIZ-VIEW%20PROJECT-red?style=for-the-badge&labelColor=black&color=red">
+</a>
+</p>
+
 
 Technology rules the world.
  <br><br> <br></p>
@@ -58,11 +65,6 @@ Technology rules the world.
 </div>
 
 ###
-<p align="center">
-<a href="https://github.com/larah-dev/Modern-Quiz.git">
-  <img src="https://img.shields.io/badge/🐧%20MODERN%20QUIZ-VIEW%20PROJECT-red?style=for-the-badge&labelColor=black&color=red">
-</a>
-</p>
 
 
 
