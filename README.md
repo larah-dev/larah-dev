@@ -59,6 +59,12 @@ Technology rules the world.
 
 ###
 
-https://github.com/larah-dev/Modern-Quiz.git
+
+
+<p align="center">
+  <a href="https://github.com/larah-dev/Modern-Quiz.git">
+    <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge">
+  </a>
+</p>
 
 ###
