@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left"> Im Larah. <br><br> Take a look at my top projects bellow.. <br>
+<!-- <p align="left"> Im Larah. <br><br> Take a look at my top projects bellow: <br> -->
 
 <p align="center">
 <a href="https://github.com/larah-dev/Modern-Quiz.git">
