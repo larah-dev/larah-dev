@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://github.com/larah-dev/goodcacau-menu">
     <img 
-      src="https://raw.githubusercontent.com/larah-dev/larah-dev/main/assets/web-menu.png"
+      src="https://raw.githubusercontent.com/larah-dev/larah-dev/main/goodcacau-menu"
       width="200"
     />
   </a>
