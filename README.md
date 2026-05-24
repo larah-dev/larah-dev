@@ -31,11 +31,14 @@
 ###
 
  <p align="left"> Im Larah. <br><br> Take a look at my top projects bellow: <br>
-
+<div>
 <p align="center">
 <a href="https://github.com/larah-dev/Modern-Quiz.git">
   <img src="https://img.shields.io/badge/🐧%20MODERN%20QUIZ-VIEW%20PROJECT-red?style=for-the-badge&labelColor=black&color=red">
-  width="300"
+  width="200"
+</a>
+</p>
+</div>
 </a>
 </p> <br></br>
 
