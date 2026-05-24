@@ -42,7 +42,7 @@
 <p align="center">
 <a href="https://github.com/larah-dev/goodcacau-menu.git">
   <img src=href=<img width="1307" height="652" alt="image" src=<a href="https://github.com/larah-dev/goodcacau-menu">
-  <img src="https://raw.githubusercontent.com/larah-dev/larah-dev/main/goodcacau-menu/goodcacau-menu" />
+  <img src="https://raw.githubusercontent.com/larah-dev/larah-dev/main/goodcacau-menu" />
 </a> />
 >
 </a>
