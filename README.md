@@ -40,7 +40,7 @@
 
 <div>
 <p align="center">
-<a href="https://github.com/larah-dev/Modern-Quiz.git">
+<a href="https://github.com/larah-dev/goodcacau-menu.git">
   <img src=href=<img width="1307" height="652" alt="image" src="https://github.com/user-attachments/assets/057e2754-16dc-46d7-ab98-2c745e3c6510" />
 >
 </a>
