@@ -25,16 +25,16 @@ I also explore and share knowledge about **software development**, **AI-assisted
 
 ---
 
-## 🟠 What I do
+## 🟠 What I do best!
 
-- 🟠 Modern web applications
-- 🟠 UI/UX focused interfaces
-- 🟠 Open source contributions
-- 🟠 AI-assisted development workflows
-- 🟠 Full stack systems
-- 🟠 SaaS & digital products
-- 🟠 Developer tooling
-- 🟠 Visual-first web experiences
+-  Modern web applications
+-  UI/UX focused interfaces
+- Open source contributions
+-  AI-assisted development workflows
+-  Full stack systems
+-  SaaS & digital products
+-  Developer tooling
+-  Visual-first web experiences
 
 ---
 
