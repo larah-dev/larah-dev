@@ -32,8 +32,6 @@
 
 ###
 
-<h1 align="center">Hello World.</h1>
-
 ###
 
 <div>
@@ -41,8 +39,6 @@
 </div>
 
 ###
-
-<h2 align="left">• About Me</h2>
 
 ###
 
