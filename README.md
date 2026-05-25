@@ -13,8 +13,8 @@
 
 # 🍊 Hi!, I'm Larah
 
-### 🍂 **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
-### 🍂 Brazil
+### • **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
+### • Brazil
 
 I build **modern web experiences**, **developer-focused systems**, and **scalable digital products**.  
 I’m deeply focused on **clean UI/UX**, **performance**, **visual identity**, and **technology-driven solutions**.
@@ -23,7 +23,7 @@ I also explore and share knowledge about **software development**, **AI-assisted
 
 ---
 
-# 🌅 Where to find me
+# 🟠 Where to find me
 
 <p align="left">
   <a href="https://github.com/larah-dev">
@@ -33,7 +33,7 @@ I also explore and share knowledge about **software development**, **AI-assisted
 
 ---
 
-# 🧡 What I do best!
+# 🟠 What I do best!
 
 ```txt id="9o6n3m"
 ▸ Modern web applications
@@ -44,7 +44,6 @@ I also explore and share knowledge about **software development**, **AI-assisted
 ▸ SaaS & digital products
 ▸ Developer tooling
 ▸ Visual-first web experiences
----
 ```
 ## 🟠 Tech Stack
 
