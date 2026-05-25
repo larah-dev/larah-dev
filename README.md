@@ -8,6 +8,24 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
 </div>
 
+# Hi 👋, I'm Larah
+
+---
+
+### 🚀 **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
+### 🇧🇷 **Brazil**
+
+<br>
+
+## I build modern web experiences, scalable digital products, and developer-focused systems.
+
+## I'm focused on clean architecture, modern UI/UX, performance, and creating visually strong technology projects.
+
+## I also explore open source, AI-assisted workflows, SaaS products, and next-generation web development.
+
+
+
+
 ###
 
 <div align="center">
