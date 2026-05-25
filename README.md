@@ -20,7 +20,7 @@
 
 ## I also explore open source, AI-assisted workflows, SaaS products, and next-generation web development.
 
-<img align="right" height="240" src="https://media1.tenor.com/m/u46cBOUwn_wAAAAC/futaba-sakura.gif"  />
+
 
 
 
