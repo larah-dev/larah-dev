@@ -3,10 +3,10 @@
 
 ###
 
-# Hi 🟠, I'm Larah
+# Hi!, I'm Larah
 
-🟠 **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
-🟠 Brazil
+- **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
+- Brazil
 
 I build **modern web experiences**, **developer-focused systems**, and **scalable digital products**.  
 I’m deeply focused on **clean UI/UX**, **performance**, **visual identity**, and **technology-driven solutions**.
@@ -15,7 +15,7 @@ I also explore and share knowledge about **software development**, **AI-assisted
 
 ---
 
-## 🟠 Where to find me
+## ? Where to find me
 
 <p align="left">
   <a href="https://github.com/larah-dev">
@@ -65,7 +65,7 @@ I also explore and share knowledge about **software development**, **AI-assisted
 
 ---
 
-## 🟠 GitHub Stats
+## - GitHub Stats
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=larah-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
@@ -77,13 +77,13 @@ I also explore and share knowledge about **software development**, **AI-assisted
 
 ## 🟠 Philosophy
 
-> _"Technology is more than code.  
-> It’s about creating experiences, solving problems, and building ideas that people genuinely connect with."_
+> _“The people who are crazy enough to think they can change the world are the ones who do.” — .  
+> Steve Jobs_
 
 ---
 
-🟠 Always learning, building, and exploring new ideas  
-🟠 Open to collaborations, creative projects, and open source contributions
+- Always building, and exploring new ideas  
+- Open to collaborations, creative projects, and open source contributions
 
 
 
