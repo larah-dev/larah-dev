@@ -30,7 +30,6 @@
 
 ###
 
- <p align="left"> Im Larah. <br><br> Take a look at my top projects bellow: <br>
 
 <br>
   
