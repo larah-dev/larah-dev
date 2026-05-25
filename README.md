@@ -26,10 +26,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:larah-dev?theme=sketch-2&padding=3&align=bottom&pixelated=0&darkmode=auto"  />
-</div>
-
 ###
 
 ###
