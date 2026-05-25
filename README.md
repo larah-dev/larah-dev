@@ -45,7 +45,7 @@ I also explore and share knowledge about **software development**, **AI-assisted
 ▸ Developer tooling
 ▸ Visual-first web experiences
 ---
-
+```
 ## 🟠 Tech Stack
 
 ### Frontend
