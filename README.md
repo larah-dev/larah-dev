@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
-### 🇧🇷 **Brazil**
+
 
 <br>
 
