@@ -3,22 +3,88 @@
 
 ###
 
+# Hi 🟠, I'm Larah
 
+🟠 **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
+🟠 Brazil
 
-# Hi 👋, I'm Larah
+I build **modern web experiences**, **developer-focused systems**, and **scalable digital products**.  
+I’m deeply focused on **clean UI/UX**, **performance**, **visual identity**, and **technology-driven solutions**.
+
+I also explore and share knowledge about **software development**, **AI-assisted workflows**, **open source**, and **modern web architecture**.
 
 ---
 
-### 🚀 **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
+## 🟠 Where to find me
 
+<p align="left">
+  <a href="https://github.com/larah-dev">
+    <img src="https://img.shields.io/badge/GitHub-LARAH--DEV-ff6b00?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br>
+---
 
-## I build modern web experiences, scalable digital products, and developer-focused systems.
+## 🟠 What I do
 
-## I'm focused on clean architecture, modern UI/UX, performance, and creating visually strong technology projects.
+- 🟠 Modern web applications
+- 🟠 UI/UX focused interfaces
+- 🟠 Open source contributions
+- 🟠 AI-assisted development workflows
+- 🟠 Full stack systems
+- 🟠 SaaS & digital products
+- 🟠 Developer tooling
+- 🟠 Visual-first web experiences
 
-## I also explore open source, AI-assisted workflows, SaaS products, and next-generation web development.
+---
+
+## 🟠 Tech Stack
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-ff6b00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-ff6b00?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff6b00?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff6b00?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-ff6b00?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-ff6b00?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-ff6b00?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-ff6b00?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-ff6b00?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff6b00?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Design
+
+![Git](https://img.shields.io/badge/Git-ff6b00?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff6b00?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-ff6b00?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff6b00?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🟠 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=larah-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larah-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🟠 Philosophy
+
+> _"Technology is more than code.  
+> It’s about creating experiences, solving problems, and building ideas that people genuinely connect with."_
+
+---
+
+🟠 Always learning, building, and exploring new ideas  
+🟠 Open to collaborations, creative projects, and open source contributions
+
 
 
 
