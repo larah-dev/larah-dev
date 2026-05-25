@@ -3,10 +3,18 @@
 
 ###
 
-# Hi!, I'm Larah
+<div align="center">
 
-- **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
-- Brazil
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff7b00,100:ffb347&text=Larah&fontAlign=50&fontAlignY=35&fontSize=60&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20Open%20Source%20•%20AI%20Systems&descAlignY=55"/>
+
+</div>
+
+---
+
+# 🍊 Hi!, I'm Larah
+
+### 🍂 **Aspiring Full Stack Developer | Open Source Contributor | AI & Web Systems Enthusiast**  
+### 🍂 Brazil
 
 I build **modern web experiences**, **developer-focused systems**, and **scalable digital products**.  
 I’m deeply focused on **clean UI/UX**, **performance**, **visual identity**, and **technology-driven solutions**.
@@ -15,27 +23,27 @@ I also explore and share knowledge about **software development**, **AI-assisted
 
 ---
 
-## ? Where to find me
+# 🌅 Where to find me
 
 <p align="left">
   <a href="https://github.com/larah-dev">
-    <img src="https://img.shields.io/badge/GitHub-LARAH--DEV-ff6b00?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-LARAH--DEV-ff7b00?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🟠 What I do best!
+# 🧡 What I do best!
 
--  Modern web applications
--  UI/UX focused interfaces
-- Open source contributions
--  AI-assisted development workflows
--  Full stack systems
--  SaaS & digital products
--  Developer tooling
--  Visual-first web experiences
-
+```txt id="9o6n3m"
+▸ Modern web applications
+▸ UI/UX focused interfaces
+▸ Open source contributions
+▸ AI-assisted development workflows
+▸ Full stack systems
+▸ SaaS & digital products
+▸ Developer tooling
+▸ Visual-first web experiences
 ---
 
 ## 🟠 Tech Stack
